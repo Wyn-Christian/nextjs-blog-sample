@@ -27,6 +27,7 @@ export default function Home({ allPostsData }) {
 					Hello, I'm Wyn Christian! I'm a data scientist and a web
 					developer. Lets goooo!
 				</p>
+				<p>Nice to meet you!</p>
 				<p>
 					(This is a sample website - you’ll be building a site like this
 					on <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
